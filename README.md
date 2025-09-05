@@ -2,7 +2,3 @@
 
 
 
-
-
-## Vendor_SPP.pbit
-
